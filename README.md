@@ -22,8 +22,8 @@ This project introduces students to hashing algorithms, file handling, and integ
 - “Check” mode: Compares the current file hash to the stored hash to detect changes.
 - Clean and user-friendly command-line interface.
 - Supports multiple file entries.
-- Error handling for missing files, unsupported modes, or mismatche
-- 
+- Error handling for missing files, unsupported modes, or mismatches
+  
 # Skills Demonstrated:
 
 - Python scripting and automation
