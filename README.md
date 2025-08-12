@@ -10,6 +10,7 @@ Check: Compares the current hashes with the saved ones to detect changes.
 This project introduces students to hashing algorithms, file handling, and integrity verification, which are essential topics in cybersecurity.
 
 # Key Objectives:
+
 - Detect any unauthorized or unexpected changes to critical files.
 - Maintain a secure list of known-good file hashes.
 - Alert the user when discrepancies are found.
